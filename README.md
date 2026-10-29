@@ -28,6 +28,6 @@ Me apasiona el cruce entre **matemática aplicada, diseño de algoritmos, cienci
 
 ### 📫 Contacto
 
-- 🌐 **Web:** [boucai.com.ar](https://boucai.com.ar)
+- 🌐 **Web:** [felisoft.com.ar](https://felisoft.com.ar)
 - ✉️ **Email:** [Felipe@boucai.com.ar](mailto:Felipe@boucai.com.ar)
 - 📍 **Ubicación:** Buenos Aires, Argentina (CABA / Pilar)
